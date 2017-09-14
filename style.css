@@ -18,6 +18,11 @@ article {
   
 }
 
+.map {
+  width: 100px;
+  height: auto;
+}
+
 header {
   
   background-color: salmon;
