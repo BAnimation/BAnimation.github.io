@@ -1,4 +1,5 @@
-imgh1 {
+
+h1 {
   text-align: center;
   font-family: arial;
 
@@ -15,4 +16,9 @@ img {
   margin-right: auto;
   border-radius: 50%
   
+}
+
+header {
+  
+  background-color: salmon;
 }
