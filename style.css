@@ -1,4 +1,4 @@
-h1 {
+imgh1 {
   text-align: center;
   font-family: arial;
 
@@ -8,4 +8,11 @@ article {
   background-color: skyblue;
   width: 300px;
 
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%
+  
 }
